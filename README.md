@@ -4,7 +4,7 @@ Site educativo sobre tecnologia sustentável, inclusão digital e acessibilidade
 
 | | |
 |---|---|
-| | **Site publicado (HTTPS)** | https://GuAlmeida29.github.io/techverde/ |
+| **Site publicado (HTTPS)** | https://GuAlmeida29.github.io/techverde/ |
 | **Repositório** | https://github.com/GuAlmeida29/techverde |
 | **Disciplina / Professor** | Front-End para Web · Prof. Paulo Fratta |
 
