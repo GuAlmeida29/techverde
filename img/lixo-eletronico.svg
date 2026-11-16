@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" width="800" height="500" role="img" aria-labelledby="t d"><defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#183a28"/><stop offset="1" stop-color="#091710"/></linearGradient></defs><rect width="800" height="500" fill="url(#g)"/><title id="t">Lixo eletrônico no mundo em 2022</title><desc id="d">Gráfico de barra: dos 62 milhões de toneladas geradas em 2022, 22,3 por cento foram coletadas e recicladas de forma documentada.</desc>
+<text x="60" y="90" font-family="Arial,sans-serif" font-size="30" font-weight="700" fill="#f1f7f2">Lixo eletrônico no mundo, 2022</text>
+<text x="60" y="190" font-family="Arial,sans-serif" font-size="88" font-weight="800" fill="#8af0ae">62 Mt</text>
+<text x="60" y="235" font-family="Arial,sans-serif" font-size="24" fill="#a9bbb0">milhões de toneladas geradas</text>
+<rect x="60" y="290" width="680" height="46" rx="12" fill="#12291e" stroke="#2c5a40" stroke-width="2"/><rect x="60" y="290" width="152" height="46" rx="12" fill="#54d985"/>
+<text x="60" y="378" font-family="Arial,sans-serif" font-size="26" font-weight="700" fill="#8af0ae">22,3% coletado e reciclado</text>
+<text x="740" y="378" font-family="Arial,sans-serif" font-size="26" fill="#a9bbb0" text-anchor="end">77,7% sem coleta documentada</text>
+<text x="60" y="450" font-family="Arial,sans-serif" font-size="20" fill="#a9bbb0">Fonte: Global E-waste Monitor 2024 (ONU/UIT)</text></svg>

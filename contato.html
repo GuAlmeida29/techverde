@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="pt-BR"><head><meta charset="UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="theme-color" content="#07130f"><meta name="description" content="Entre em contato com o TechVerde."><title>Contato | TechVerde</title><link rel="icon" type="image/svg+xml" href="assets/favicon.svg">
+<link rel="stylesheet" href="css/style.css"><meta property="og:type" content="website">
+<meta property="og:site_name" content="TechVerde">
+<meta property="og:title" content="Contato | TechVerde">
+<meta property="og:description" content="Entre em contato com o TechVerde.">
+</head>
+<body>
+<a class="skip-link" href="#conteudo">Pular para o conteúdo</a>
+<header class="site-header"><div class="container nav-wrap"><a class="logo" href="index.html"><span>◆</span> TechVerde</a><button class="menu-toggle" type="button" aria-expanded="false" aria-controls="menu-principal" aria-label="Abrir menu de navegação"><span></span><span></span><span></span></button><nav id="menu-principal" aria-label="Navegação principal"><a href="index.html">Início</a><a href="sobre.html">Sobre</a><a href="projetos.html">Projetos</a><a href="impacto.html">Impacto</a><a href="acessibilidade.html">Acessibilidade</a><a href="galeria.html">Galeria</a><a href="midia.html">Mídia</a><a href="noticias.html">Notícias</a><a class="active" aria-current="page" href="contato.html">Contato</a><a href="orcamento_hospedagem.html">Orçamento</a></nav></div></header>
+<main id="conteudo"><section class="page-hero"><div class="container"><p class="eyebrow">FALE CONOSCO</p><h1>Vamos conversar sobre <span>tecnologia.</span></h1><p>Formulário com validação em JavaScript e rascunho salvo automaticamente neste navegador.</p></div></section>
+<section class="section"><div class="container contact-grid"><form class="card form" id="form-contato" novalidate>
+<h2>Envie uma mensagem</h2>
+<p class="required-note">Todos os campos são obrigatórios, exceto o número de equipamentos.</p>
+<label for="nome">Nome completo</label><input id="nome" name="nome" type="text" required autocomplete="name" aria-describedby="erro-nome" placeholder="Seu nome"><span class="error-msg" id="erro-nome"></span>
+<label for="email">E-mail</label><input id="email" name="email" type="email" required autocomplete="email" aria-describedby="erro-email" placeholder="voce@email.com"><span class="error-msg" id="erro-email"></span>
+<label for="telefone">Telefone com DDD</label><input id="telefone" name="telefone" type="tel" required inputmode="numeric" autocomplete="tel" aria-describedby="erro-telefone" placeholder="11999999999"><span class="error-msg" id="erro-telefone"></span>
+<label for="data">Data preferida para contato</label><input id="data" name="data" type="date" required aria-describedby="erro-data"><span class="error-msg" id="erro-data"></span>
+<label for="numero">Número de equipamentos (opcional)</label><input id="numero" name="numero" type="number" min="0" max="100" aria-describedby="erro-numero"><span class="error-msg" id="erro-numero"></span>
+<label for="assunto">Assunto</label><select id="assunto" name="assunto" required aria-describedby="erro-assunto"><option value="">Selecione</option><option>Projeto</option><option>Voluntariado</option><option>Doação de equipamentos</option><option>Inclusão digital</option><option>Sustentabilidade</option><option>Outro</option></select><span class="error-msg" id="erro-assunto"></span>
+<label for="mensagem">Mensagem</label><textarea id="mensagem" name="mensagem" required rows="6" aria-describedby="erro-mensagem" placeholder="Escreva sua mensagem"></textarea><span class="error-msg" id="erro-mensagem"></span>
+<div class="form-actions"><button class="btn primary" type="submit">Preparar mensagem</button><button class="btn ghost" type="button" id="limpar-rascunho">Apagar rascunho</button></div>
+<p class="form-note" id="form-status" role="status" aria-live="polite">Os dados são validados neste dispositivo e um rascunho é salvo no seu navegador (localStorage). O site ainda não possui serviço de envio conectado.</p>
+</form>
+<aside class="card"><h2>Equipe</h2><p>O TechVerde é um projeto acadêmico desenvolvido para compartilhar conhecimento sobre tecnologia sustentável, inclusão digital e acessibilidade.</p><hr><h3>Integrantes</h3>
+<ul class="lista-equipe">
+<li><strong>Gustavo Braga</strong> <br>Responsável por: HTML e páginas</li>
+<li><strong>Felipe Melo da Silva</strong> <br>Responsável por: CSS e identidade visual</li>
+<li><strong>João Victor Noronha</strong>  <br>Responsável por: JavaScript</li>
+</ul><p class="muted">  UNICID · Front-End para Web · 2026</p></aside></div></section><section class="ods-strip" aria-labelledby="ods-titulo"><div class="container"><h2 id="ods-titulo">Compromisso com os ODS</h2><p>O TechVerde contribui com os Objetivos de Desenvolvimento Sustentável da ONU ao divulgar informação sobre reuso, descarte correto e inclusão digital.</p><ul class="ods-list"><li><span class="ods-num" aria-hidden="true">4</span><span><strong>ODS 4</strong><br>Educação de qualidade</span></li><li><span class="ods-num" aria-hidden="true">9</span><span><strong>ODS 9</strong><br>Indústria, inovação e infraestrutura</span></li><li><span class="ods-num" aria-hidden="true">11</span><span><strong>ODS 11</strong><br>Cidades e comunidades sustentáveis</span></li><li><span class="ods-num" aria-hidden="true">12</span><span><strong>ODS 12</strong><br>Consumo e produção responsáveis</span></li></ul><div class="ods-actions"><a class="btn primary" href="projetos.html#apoie">Apoie o projeto</a><a class="btn ghost" href="https://brasil.un.org/pt-br/sdgs" target="_blank" rel="noopener">Conheça os ODS (abre em nova aba)</a></div></div></section>
+</main>
+<footer class="site-footer"><div class="container footer-grid"><div><a class="logo" href="index.html"><span>◆</span> TechVerde</a><p>Tecnologia que transforma. Sustentabilidade que permanece.</p></div><div><p>Projeto acadêmico — Front-End para Web</p><p>UNICID • 2026</p></div></div></footer><script src="js/script.js" defer></script>
+<script src="js/ecobot.js" defer></script>
+</body></html>
