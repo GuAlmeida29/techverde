@@ -11,7 +11,8 @@ Site educativo sobre tecnologia sustentável, inclusão digital e acessibilidade
 ## Equipe
 | Integrante | Responsabilidade |
 |---|---|---|
-| Gustavo Braga Domingues Almeida | HTML , páginas , deploy e documentação |
+| Gustavo Braga Domingues Almeida RA 47633701 
+ | HTML , páginas , deploy e documentação |
 | Felipe Melo | CSS e identidade visual |
 | João Noronha | JavaScript |
 
