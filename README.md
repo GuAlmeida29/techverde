@@ -12,7 +12,7 @@ Site educativo sobre tecnologia sustentável, inclusão digital e acessibilidade
 | Integrante | Responsabilidade |
 |---|---|---|
 | Gustavo Braga Domingues Almeida | HTML , páginas , deploy e documentação |
-| Felipe Melo | [ex.: CSS e identidade visual] |
+| Felipe Melo | CSS e identidade visual |
 | João Noronha | JavaScript |
 
 ## O que o site tem
