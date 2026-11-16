@@ -9,11 +9,11 @@ Site educativo sobre tecnologia sustentável, inclusão digital e acessibilidade
 | **Disciplina / Professor** | Front-End para Web · Prof. Paulo Fratta |
 
 ## Equipe
-| Integrante | RA | Responsabilidade |
+| Integrante | Responsabilidade |
 |---|---|---|
-| Gustavo Braga Domingues Almeida | 47633701 | HTML , páginas , deploy e documentação |
-| Felipe Melo | 47531886 | [ex.: CSS e identidade visual] |
-| João Noronha | 47495995 | JavaScript |
+| Gustavo Braga Domingues Almeida | HTML , páginas , deploy e documentação |
+| Felipe Melo | [ex.: CSS e identidade visual] |
+| João Noronha | JavaScript |
 
 ## O que o site tem
 - 10 páginas HTML5 semânticas e interligadas (W3C sem erros).
