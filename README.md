@@ -13,8 +13,9 @@ Site educativo sobre tecnologia sustentável, inclusão digital e acessibilidade
 |---|---|---|
 | Gustavo Braga Domingues Almeida RA 47633701 
  | HTML , páginas , deploy e documentação |
-| Felipe Melo | CSS e identidade visual |
-| João Noronha | JavaScript |
+| Felipe Melo RA 47531886| CSS e identidade visual |
+| João Noronha RA 47495995
+| JavaScript |
 
 ## O que o site tem
 - 10 páginas HTML5 semânticas e interligadas (W3C sem erros).
